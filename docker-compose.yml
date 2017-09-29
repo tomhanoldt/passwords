@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  metasploit:
+    container_name: 'metasploit'
+    image: "strm/metasploit"
+    volumes:
+      - ./config:/tmp/config
+
+  medusa:
+    image: ubuntu
+    container_name: medusa
+    volumes:
+      - ./config:/tmp/config
