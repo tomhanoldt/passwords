@@ -1,0 +1,55 @@
+:666666:666666
+:888888:888888
+:admin:
+:admin:1111
+:admin:1234
+:admin:4321
+:admin:9999
+:admin:12345
+:admin:111111
+:admin:123456
+:admin:1111111
+:admin:99999999
+:admin:admin
+:admin:root
+:admin:fliradmin
+:admin:jvc
+:admin:meinsm
+:admin:no set password
+:admin:password
+:admin:pass
+:admin:wbox123
+:administrator:1234
+:admin:(Camera Model)
+:admin1:password
+:Admin:1234
+:Admin:12345
+:Admin:123456
+:Administrator:
+:none:
+:Admin:admin
+:Dinion:no set password
+:no default:no set password
+:root:pass
+:root:camera
+:root:system
+:root:admin
+:root:Admin
+:root:root
+:root:no set password
+:root:ikwd
+:root:ikwb
+:root:4321
+:root:54321
+:root:unknown
+:root:
+:root:anko
+:root:vizxv
+:root:7ujMko0vizxv
+:root:7ujMko0admin
+:root:hi3518
+:root:klv123
+:root:klv124
+:service:service
+:supervisor:supervisor
+:ubnt:ubnt

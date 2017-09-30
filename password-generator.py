@@ -41,10 +41,10 @@ class PasswordGenerator:
                     yield sub_permutation
 
 if __name__ == '__main__':
-    generator = PasswordGenerator()
+    generator = PasswordGenerator('abcdefghijklmnopqrstuvwxyz0123456789')
     print 'generating words from: ' + generator.chars
     print ''
 
-    with open("../config/az_printable/5.txt", "a") as f:
+    with open("./config/az_09/5.txt", "a") as f:
         for value in generator.generate(5):
             f.write(value + '\n')
