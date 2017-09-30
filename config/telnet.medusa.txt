@@ -1,11 +1,9 @@
 :mtch:mtch
-::xdfk9874t3
 :admin:pwp
 :demos:demos
 :client:client
 :admin:public
 :db2admin:db2admin
-::star
 :bbs:bbs
 :maint:ntacdmax
 :MGR:SYS
@@ -18,11 +16,8 @@
 :BATCH1:
 :guest:guest
 :netman:
-::AM
 :PSEAdmin:$secure$
-::sa
 :FAXWORKS:
-::Babylon
 :2:manager
 :SYSADMIN:
 :sherzad420:pakistan
@@ -31,7 +26,6 @@
 :web:web
 :USER5:USER5
 :anonymous:any@
-::help
 :satan:
 :admin:setup
 :MGR:TELESUP
@@ -46,7 +40,6 @@
 :MODTEST:YES
 :ibm:password
 :admin:Ascend
-::Sxyz
 :cellit:cellit
 :sys:system
 :sysopr:sysopr
@@ -77,14 +70,12 @@
 :super:surt
 :SQLDBA:
 :admin:2222
-::dn_04rjc
 :file:file
 :admin:tetra
 :NAMES:NAMES
 :USER3:USER3
 :eqadmin:equalizer
 :n/a:system
-::TTPTHA
 :admin:raritan
 :CHEY_ARCHSVR:WONDERLAND
 :l2:l2
@@ -100,22 +91,17 @@
 :SAMPLE:SAMPLE
 :NETOP:
 :superuser:asante
-::t0ch20x
 :dream:trocse
 :OLTSEP:
 :PRIV:PRIV
 :NETMGR:NETMGR
-::SW_AWARD
 :trouble:trouble
-::AMI~
 :drhhdrhhd:dhrhdhhhh
 :SUPERVISOR:
 :n/a:1RRWTTOOI
 :!root:
 :MOESERV:
 :user:user
-::san fran 8
-::Daewuu
 :CHEY_ARCHSVR:CHEY_ARCHSVR
 :IIPS:
 :setup/snmp:setup/nopassword
@@ -130,7 +116,6 @@
 :webmaster:webmaster
 :admin:private
 :FIELD:LOTUS
-::year2000
 :FIELD:HPWORD PUB
 :1:operator
 :user:
@@ -150,7 +135,6 @@
 :Admin:Admin
 :1:syslib
 :DECNET:NONPRIV
-::central
 :root:default
 :admin:TANDBERG
 :MGR:HPP189
@@ -171,10 +155,8 @@
 :Admin:
 :root:Mau dib
 :managers:managers
-::cable-docsis
 :PVM:
 :SYSMAINT:DIGITAL
-::wg (touch password)
 :admin:____BLANK___
 :SUPERVISOR:NETFRAME
 :tutor:tutor
@@ -190,7 +172,6 @@
 :patrol:patrol
 :COMPANY:COMPANY
 :BATCH:
-::3098z
 :boss:boss
 :CATALOG:CATALOG
 :PROCAL:
@@ -198,7 +179,6 @@
 :WebAdmin:WebBoard
 :SUPERVISOR:DISCAR
 :IVPM1:
-::tatercounter2000
 :admin:NetSeq
 :$ALOC$:
 :USER2:USER2
@@ -206,7 +186,6 @@
 :debug:gubed
 :GUEST:TSEUG
 :SYSMAN:oem_temp
-::sp99dd
 :sysadmin:master
 :DTA:TJM
 :customer:
@@ -214,12 +193,9 @@
 :admin:surecom
 :nobody:
 :lp:lp
-::spooml
 :DOCSIS_APP:3com
 :VNC:winterm
-::private
 :EVENT:EVENT
-::ILMI
 :AQUSER:AQUSER
 :CDEMOUCB:CDEMOUCB
 :halt:tlah
@@ -233,14 +209,12 @@
 :WINDOWS_PASSTHRU:
 :MGR:ITF3000
 :netrangr:attack
-::Q54arwms
 :admin:none
 :monitor:monitor
 :FIELD:HPP187 SYS
 :superuser:admin
 :CTXSYS:
 :admin:cisco
-::Polrty
 :intelligent_guy_priyank:passwordguy
 :root:calvin
 :fax:fax
@@ -250,20 +224,13 @@
 :gopher:gopher
 :write:synnet
 :Any Local User:Local User password
-::alfarome
 :MANAGER:TCH
 :MBWATCH:MBWATCH
 :18364:
-::cascade
-::amipswd
 :rsadmin:(null)
-::aammii
 :kermit:kermit
 :SETUP:
 :Administrator:ganteng
-::256256
-::babbit
-::password
 :MBMANAGER:MBMANAGER
 :DEMO2:
 :root:admin
@@ -271,12 +238,8 @@
 :VM3812:
 :pixadmin:pixadmin
 :user:pass
-::Q
-::IBM
 :rwa:rwa
-::CONDO,
 :administrator:admin
-::hewlpack
 :Admin:123qwe
 :sysadmin:password
 :PRINT:PRINT
@@ -291,13 +254,11 @@
 :GCS:
 :me:
 :NEWINGRES:NEWINGRES
-::teX1
 :INFO:INFO
 :root:none
 :qsvr:qsvr
 :anonymous:
 :$system:
-::raidzone
 :MGR:HPOFFICE
 :system:password
 :administrator:
@@ -308,14 +269,11 @@
 :LessonUser2:
 :n/a:1234
 :PDMREMI:
-::BIOSPASS
 :haasadm:lucy99
-::wodj
 :LASERWRITER:LASERWRITER
 :ADMIN:ADMIN
 :default.password:
 :shutdown:shutdown
-::PASSWORD
 :powerdown:powerdown
 :SUPERVISOR:HARRIS
 :deskres:password
@@ -324,16 +282,13 @@
 :op:op
 :n/a:BRIDGE
 :(null):
-::Admin
 :webmaster:
-::xyzall
 :stuccoboy:100198
 :WP:HPOFFICE
 :OPERATOR:SYSTEM
 :fast:adb234
 :MGR:COGNOS
 :n/a:adtran
-::telos
 :root:NeXT
 :system:prime
 :root:vertex25
@@ -352,24 +307,17 @@
 :Admin:No
 :TSUSER:TSUSER
 :STUDENT:STUDENT
-::ANYCOM
-::Serial Num
 :ALLINONE:ALLINONE
 :DEMO4:
 :BATCH:BATCH
-::ascend
 :SYSADM:SYSADM
-::iwill
 :POWERCARTUSER:POWERCARTUSER
 :User:User
 :VMTLIBR:
-::default
 :VMS:VMS
 :ISPVM:
 :root:ascend
-::CMOSPWD
 :OCITEST:OCITEST
-::lantronix
 :cablecom:router
 :Manager:Manager
 :cgadmin:cgadmin
@@ -381,28 +329,21 @@
 :HELP:HELP
 :demo:
 :USER6:USER6
-::Master
 :mlusr:mlusr
 :autocad:autocad
-::(nessun)
 :webdb:webdb
 :ADVMAIL:HPOFFICE DATA
 :hostname/ ip address:sysadmin
-::c
 :SUPERVISOR:NFI
 :MGR:HPDESK
-::merlin
-::Dell
 :RE:RE
 :ADVMAIL:HP
 :postmaster:
 :VSEIPO:
 :GATEWAY:GATEWAY
 :l3:l3
-::public
 :topicalt:password
 :IDMSSE:
-::laflaf
 :BACKUP:
 :PO:PO
 :spcl:0
@@ -410,12 +351,9 @@
 :tech:field
 :n/a:cisco
 :bcim:bcimpw
-::0 and the number of OCE printer
-::SYSTEM
 :SAVSYS:
 :NAU:NAU
 :CCC:
-::RM
 :none:1234
 :admin:bintec
 :dhs3mt:dhs3mt
@@ -432,7 +370,6 @@
 :n/a:123456
 :Cisco:Cisco
 :ESSEX:
-::Toshiba
 :root:1234
 :qsrv:qsrv
 :PUBSUB:PUBSUB
@@ -452,7 +389,6 @@
 :POWERCHUTE:APC
 :desknorm:password
 :prime:primeos
-::HEWITT RAND
 :NEWS:NEWS
 :SYS:CHANGE_ON_INSTALL
 :ADAMS:WOOD
@@ -460,9 +396,7 @@
 :MGR:HPP196
 :root:powerapp
 :IDMS:
-::A.M.I
 :cac_admin:cacadmin
-::Cisco router
 :fax:
 :MAIL:MPE
 :LUCENT02:UI-PSWD-02
@@ -486,7 +420,6 @@
 :rob’s:knob
 :NETWORK:NETWORK
 :politcally:correct
-::111#
 :system:weblogic
 :private ReadWrite access:secret
 :admin:diamond
@@ -496,12 +429,10 @@
 :lynx:lynx
 :enable:cisco
 :FINANCE:FINANCE
-::system
 :admin:no password
 :PRIMARY:PRIMARY
 :apc:apc
 :webadmin:webibm
-::166816
 :VAX:VAX
 :hello:hello
 :1.1:SYSTEM
@@ -529,10 +460,8 @@
 :guest:guestgue
 :any:cascade
 :root:nokia
-::lkwpeter
 :debug:tech
 :FIELD:TEST
-::prost
 :factory:(see note)
 :n/a:symantec
 :mountfsys:mountfsys
@@ -549,17 +478,13 @@
 :root:pass
 :user:password
 :mountfs:mountfs
-::j09F
-::j64
 :USER4:USER4
 :HPLASER:
 :FAXUSER:
 :GUEST:GUESTGUE
 :web:
-::Award
 :VMASMON:
 :HELLO:FIELD.SUPPORT
-::Fireport
 :m1122:m1122
 :SMART:
 :DIRECT:
@@ -572,22 +497,18 @@
 :SYSWRM:
 :SYSDBA:masterkey
 :admin:switch
-::QDI
 :qsvr:ibmcel
 :OUTLN:OUTLN
 :primenet:primenet
-::AMIDECOD
 :debug:d.e.b.u.g
 :qpgmr:qpgmr
 :admin:rainbow
 :field:field
 :news:
-::2501
 :IPFSERV:
 :news:news
 :4Dgifts:4Dgifts
 :TDISK:
-::aPAf
 :sys:sys
 :field:support
 :read:synnet
@@ -603,9 +524,7 @@
 :CDEMOCOR:CDEMOCOR
 :demos:
 :ftp:ftp
-::1234
 :lp:
-::enter
 :SYS:SYS
 :CHEY_ARCHSVR:
 :AURORA@ ORB@ UNAUTHENTICATED:INVALID
@@ -644,7 +563,6 @@
 :umountfs:umountfs
 :OPERATOR:
 :browse:browsepw
-::MiniAP
 :NETPRIV:NETPRIV
 :ccrusr:ccrusr
 :SFCMI:
@@ -652,14 +570,10 @@
 :craft:craft
 :RJE:RJE
 :Demo:
-::Daytec
 :umountsys:umountsys
 :OPERATOR:COGNOS
 :RMUser1:password
-::condo
-::forgot
 :BACKUP:BACKUP
-::0
 :lp:lineprin
 :adfexc:adfexc
 :MAIL:
@@ -672,32 +586,25 @@
 :SYSADM:sysadm
 :admin:NetCache
 :root:resumix
-::j262
 :admin:(ip address)
 :SPOOLMAN:HPOFFICE
 :browse:looker
 :rodopi:rodopi
 :bin:sys
 :sysbin:sysbin
-::AMI.KEY
 :GEN2:gen2
 :netman:netman
 :sysadm:admin
 :MGR:XLSERVER
 :signa:signa
 :trmcnfg:trmcnfg
-::AWARD_SW
 :AQDEMO:AQDEMO
-::Congress
-::Col2ogro2
 :system:security
 :CTXSYS:CTXSYS
-::Intel
 :MANAGER:HPOFFICE
 :SYSTEST:UETP
 :setup:changeme
 :7:maintain
-::secure
 :USERP:USERP
 :Scott:Tiger
 :MGR:CNAS
@@ -707,12 +614,10 @@
 :USER_TEMPLATE:USER_TEMPLATE
 :USER_TEMPLATE:
 :administrator:asecret
-::last
 :MAIL:HPOFFICE
 :prime:prime
 :volition:volition
 :setup:N/A
-::setup
 :DECMAIL:DECMAIL
 :service:smile
 :11111111:11111111
@@ -722,9 +627,7 @@
 :setpriv:system
 :snake:
 :admin:1111
-::Tiny
 :EZsetup:
-::cisco
 :CDEMORID:CDEMORID
 :any:system
 :admin:extendnet
@@ -738,17 +641,13 @@
 :PDP8:PDP8
 :unix:unix
 :DEMO:DEMO
-::14admin
 :OPERATOR:SUPPORT
 :shutdown:
-::xo11nE
 :APL2PP:
 :sys:bin
 :n.a:guardone
 :WANGTEK:WANGTEK
 :write:
-::SnuFG5
-::BIGO
 :TSAFVM:
 :SYSERR:
 :root:3ep5w2u
@@ -765,7 +664,6 @@
 :USER0:USER0
 :checkfsys:checkfsys
 :man:
-::R1QTPS
 :FIELD:FIELD
 :login:admin
 :primos_cs:prime
@@ -774,7 +672,6 @@
 :root:rootme
 :sa:sasasa
 :mediator:mediator
-::access
 :james:james
 :diag:switch
 :qserv:qserv
@@ -788,12 +685,10 @@
 :BATCH2:
 :fastwire:fw
 :public:public
-::sertafu
 :admin:comcomcom
 :admin:utstar
 :mail:
 :system_admin:system_admin
-::FOOBAR
 :rje:rje
 :DCL:DCL
 :system:manager
@@ -811,32 +706,24 @@
 :SAP*:PASS
 :adminttd:adminttd
 :Ezsetup:
-::744
 :FIELD:HPONLY
-::letmein
 :admin:ip20
 :AURORA@ORB@UNAUTHENTICATED:INVALID
 :qsecofr:qsecofr
 :RSBCMON:SYS
 :manuf:xxyyzz
-::BIOS
 :__super:(caclulated)
-::admin
 :MAILER:MAILER
 :FIELD:SERVICE
 :MANAGER:TELESUP
 :setup:
 :(created):telus00
-::netadmin
 :login:0
 :admin:year2000
-::cc
-::toshy99
 :2:operator
 :checkfs:checkfs
 :admin:abc123
 :OutOfBox:
-::biostar
 :LR-ISDN:LR-ISDN
 :PROMAIL:
 :AURORA$JIS$UTILITY$:
@@ -848,9 +735,6 @@
 :MGR:NETBASE
 :conferencing:admin
 :VMBACKUP:
-::ksdjfg934t
-::comcomcom
-::speedxess
 :USER7:USER7
 :ADMIN:changeme
 :admin:default
@@ -858,11 +742,9 @@
 :admin:nms
 :lynx:
 :**ADMIN (**23646):ADMIN (23646)
-::orinoco
 :FIELD:MANAGER
 :accounting:accounting
 :operator:
-::root
 :DSA:
 :ibm:service
 :ROUTER:
@@ -874,7 +756,6 @@
 :DISKCNT:
 :SYSDUMP1:
 :DEFAULT:USER
-::Super
 :SMDR:SECONDARY
 :Admin:ImageFolio
 :god2:12345
@@ -882,10 +763,8 @@
 :VTAM:
 :NICONEX:NICONEX
 :IntraStack:Asante
-::3ascotel
 :PRODBM:
 :qsrvbas:qsrvbas
-::shiva
 :root:ibm
 :DBA:SQL
 :bbs:
@@ -918,20 +797,16 @@
 :bciim:bciimpw
 :demos:(none by default)
 :DECNET:DECNET
-::default.password
-::Serial Number
 :n/a:PASSWORD
 :internal:oracle
 :bbsd-client:changeme2
 :volition:
-::zeosx
 :kol:gniffe
 :admin2:changeme
 :apcuser:apc
 :sa:
 :root:letmein
 :Any:12345
-::1064
 :debug:synnet
 :APPS:APPS
 :naadmin:naadmin
@@ -943,7 +818,6 @@
 :WebAdmin:Admin
 :SAPR3:SAP
 :DIRMAINT:
-::Posterie
 :sysadmin:sysadmin
 :USER9:USER9
 :FSFTASK2:
@@ -960,7 +834,6 @@
 :!root:!ishtar
 :DDIC:19920706
 :PRINTER:
-::Spacve
 :topicres:password
 :MAIL:MAIL
 :deskman:changeme
@@ -988,9 +861,7 @@
 :poll:poll
 :gonzo:
 :VRR1:VRR1
-::h6BB
 :init:initpw
-::1RRWTTOOI
 :manager:friend
 :MICRO:RSX
 :tele:tele
@@ -1010,7 +881,6 @@
 :QSRV:QSRV
 :SYSTEST_CLIG:SYSTEST_CLIG
 :MGR:CAROLIAN
-::Compaq
 :Telecom:Telecom
 :CTXDEMO:CTXDEMO
 :enable:
@@ -1029,7 +899,5 @@
 :n/a:password
 :netlink:netlink
 :tech:
-::Crystal
 :OPERATOR:SYS
 :t3admin:Trintech
-::adtran

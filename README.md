@@ -24,7 +24,6 @@ run
 ```
 set BLANK_PASSWORDS true
 set USERPASS_FILE /tmp/config/telnet.metasploit.txt
-set USERNAME root
 set RHOSTS 10.10.10.10
 run
 ```
@@ -35,5 +34,9 @@ https://hackertarget.com/brute-forcing-passwords-with-ncrack-hydra-and-medusa/
   * Start container session with `docker-compose run medusa bash`.
 
 ```
-medusa -u root -P /tmp/config/telnet.medusa.txt -h 10.10.10.10 -M telnet
+medusa -C /tmp/config/telnet.medusa.txt -h 192.168.178.23 -M telnet
+```
+
+```
+medusa -u root -P /tmp/config/az/1-4.txt -h 10.10.10.10 -M telnet
 ```
